@@ -5,3 +5,6 @@ Number Guessing Game
 
 TASK-2
 Student Grade Calculator
+
+TASK-3
+ATM Machine
