@@ -1,3 +1,5 @@
+//                   NUMBER GUESSING GAME
+
 package com.codesoft.numberguessinggame;
 
 import java.util.Random;
@@ -55,7 +57,7 @@ public class NumberGuessingGame {
 	        playAgain = playAgainInput.equalsIgnoreCase("yes");
 	    }
 
-	    System.out.println("Thanks for playing! Your total score is: " + totalScore);
+	    System.out.println("Thanks for playing! Your total score (out of 7) is: " + totalScore);
 	    scn.close();
 	}
 

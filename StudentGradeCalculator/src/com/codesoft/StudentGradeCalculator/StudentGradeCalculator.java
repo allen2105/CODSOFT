@@ -1,3 +1,5 @@
+//                STUDENT GRADE CALCULATOR
+
 package com.codesoft.StudentGradeCalculator;
 
 import java.util.Scanner;
