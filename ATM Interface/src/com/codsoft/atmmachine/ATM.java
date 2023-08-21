@@ -39,7 +39,8 @@ public class ATM {
             System.out.println("Welcome " + account.getuserId() + "!");
             menu(account, scn); // Pass the authenticated account to the menu
         } else {
-            System.out.println("Invalid User");
+            System.out.println("Invalid User!");
+            userLogin(scn);
         }
     }
 
